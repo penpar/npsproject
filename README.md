@@ -24,7 +24,7 @@
 
 ## Demo
 - [Swagger UI](http://43.200.217.151:8000/swagger-ui/index.html/journey-nps-controller/calculateNps)
-(임의 1000명의 고객을 생성, 점수별 카운트 및 NPS점수 계산)
+- 테스트 데이터로 1000명의 고객을 생성, 점수별 카운트 및 NPS점수 계산
 
 ## 라이센스
 MIT License
