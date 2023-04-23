@@ -23,9 +23,8 @@
 - API 문서는 Swagger UI를 이용하여 제공됩니다. /swagger-ui.html 경로로 접속하여 확인할 수 있습니다.
 
 ## Demo
-- [Swagger UI - ](http://43.200.217.151:8000/swagger-ui/index.html/journey-nps-controller/calculateNps)
-- 임의로 1000명의 고객을 생성
-- 점수별 카운트 및 NPS점수 계산
+- [Swagger UI](http://43.200.217.151:8000/swagger-ui/index.html/journey-nps-controller/calculateNps)
+(임의 1000명의 고객을 생성, 점수별 카운트 및 NPS점수 계산)
 
 ## 라이센스
 MIT License
