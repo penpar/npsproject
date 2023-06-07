@@ -2,7 +2,7 @@
 이 프로젝트는 고객 만족도 측정에 사용되는 Net Promoter Score(NPS)를 계산하기 위한 Spring boot 프로젝트입니다.
 
 ## 개발 환경
-- Spring Boot 2.4.4
+- Spring Boot 2.7.11
 - Java 11
 - MySQL 8.0.23
 - Gradle 7.6.1
